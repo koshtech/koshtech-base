@@ -1,6 +1,6 @@
 {
   "name": "koshtech-base",
   "version": "0.0.1",
-  "description": "[:koshtech][:base] is the home package of [:Volundir][:Apps].",
+  "description": "[:koshtech][:base] is the home package of [:Volundir][:PWA].",
   "dependencies": []
 }
